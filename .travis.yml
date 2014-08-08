@@ -1,0 +1,4 @@
+language: ruby
+rvm:
+- 2.1.2
+script: ruby test_sample1-1.rb
